@@ -3,7 +3,7 @@
 In this mini-project
 i needed to implement a countdown Timer
 
-#procedure 
+# procedure 
 
 First I created and index.html file which will be the base, I needed also an image so that I will complete the full design
 Then, I had to manage the style, the countdown timer needed to be in an area where we can see it clearly;
